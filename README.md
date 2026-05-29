@@ -48,7 +48,7 @@ fim-system/
 
 How to run
 1. Clone the repository
-bashgit clone https://github.com/[your-username]/fim-system.git
+bashgit clone https://github.com/[FIM-system-Master-Project]/fim-system.git
 cd fim-system
 2. Install dependencies
 bashpip install -r requirements.txt
